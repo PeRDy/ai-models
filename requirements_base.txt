@@ -1,0 +1,25 @@
+##########################
+# Sonar - Data Collector #
+##########################
+
+## Sci
+keras
+numpy>=1.11
+pandas>=0.18,<0.19
+xlrd>=0.9,<0.10
+xlwt>=1.0,<1.1
+
+## IPython
+ipython
+jupyter
+Jinja2>=2.7,<2.8
+jsonschema>=2.5,<2.6
+MarkupSafe==0.23
+mistune==0.5.1
+Pygments>=2.0,<2.1
+pyparsing==2.0.3
+python-dateutil==2.4.2
+pytz==2015.4
+pyzmq==14.6.0
+six==1.9.0
+tornado>=4.2,<4.3

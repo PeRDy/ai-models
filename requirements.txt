@@ -1,0 +1,5 @@
+##########################
+# Sonar - Data Collector #
+##########################
+
+-r requirements_base.txt

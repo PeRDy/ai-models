@@ -1,0 +1,13 @@
+#####################
+# AI Models - Tests #
+#####################
+
+-r requirements_base.txt
+
+ipdb
+coverage==3.7.1
+freezegun
+pyvirtualdisplay==0.1.3
+
+## Nose framework
+nose>=1.3.7, <1.4
